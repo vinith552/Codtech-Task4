@@ -1,3 +1,15 @@
+Name: Vinith K  
+
+Intern ID: CT08DS525
+
+Mentor: Neela Shantu
+
+Duration: DEC 24- JAN 25  
+
+Domain : FrontEnd Web Development 
+
+
+
 ### Observations on the To-Do List Application:
 
 1. *Core Features*:  
